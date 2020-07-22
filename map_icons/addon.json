@@ -1,0 +1,12 @@
+{
+"title" : "Map Icons",
+"type" : "tool",
+"tags" : "fun",
+"description" : "Map Icons",
+"ignore" :
+[
+"*.psd",
+"*.vcproj",
+"*.svn"
+]
+}

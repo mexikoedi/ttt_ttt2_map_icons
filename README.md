@@ -1,2 +1,2 @@
 # Map_Icons
-Map Icons Addon for Garry's Mod
+Map_Icons Addon for Garry's Mod

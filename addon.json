@@ -1,8 +1,11 @@
 {
-    "title": "Map Icons",
-    "type": "tool",
-    "tags": "fun",
-    "description": "Map Icons",
+    "title": "[TTT|2] Map Icons [FEATURE]",
+    "type": "servercontent",
+    "tags": [
+        "scenic",
+        "fun"
+    ],
+    "description": "A very simple map icon addon that contains only specific maps.",
     "ignore": [
         "*.psd",
         "*.vcproj",

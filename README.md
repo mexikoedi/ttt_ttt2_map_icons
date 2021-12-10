@@ -1,6 +1,6 @@
-# Map_Icons
+# ttt_ttt2_map_icons
 
-Map_Icons Addon for Garry's Mod.
+ttt_ttt2_map_icons addon for Garry's Mod.
 
 More information are available here: 
 https://steamcommunity.com/sharedfiles/filedetails/?id=1896330903
